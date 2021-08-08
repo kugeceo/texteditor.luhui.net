@@ -16,6 +16,12 @@ http://ascii.luhui.net
 
 http://zifu.luhui.net
 
+Deploy status badge
+This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
+
+Deploy status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79e84624-5271-4eb3-b8f2-d3e095d7f1a6/deploy-status)](https://app.netlify.com/sites/yanwenzi/deploys)
+
 
 # 根据以下条款和隐私政策提供对 texteditor.luhui.net 的访问和使用。
 
