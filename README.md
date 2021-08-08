@@ -1,14 +1,11 @@
 # texteditor.luhui.net
-鲁虺在线文本转换器
+鲁虺在线文本转换器字符画
 
 
 http://texteditor.luhui.net
 
 
 http://yanwenzi.luhui.net
-
-
-http://emoji.luhui.net
 
 
 http://ascii.luhui.net
