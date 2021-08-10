@@ -1,5 +1,5 @@
 # texteditor.luhui.net
-鲁虺在线文本转换器字符画
+鲁虺在线文本转换器字符画生成器
 
 
 http://texteditor.luhui.net
@@ -12,6 +12,8 @@ http://ascii.luhui.net
 
 
 http://zifu.luhui.net
+
+本系统最初只适合放在网站服务器一级目录使用，如要放在二级目录请自行修改js和css连接位置。
 
 Deploy status badge
 This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
