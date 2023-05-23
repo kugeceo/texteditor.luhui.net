@@ -25,6 +25,8 @@ https://yanwenzi.netlify.app/
 Deploy status badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/79e84624-5271-4eb3-b8f2-d3e095d7f1a6/deploy-status)](https://app.netlify.com/sites/yanwenzi/deploys)
 
+http://texteditor.guanfu.org/
+
 
 # 根据以下条款和隐私政策提供对 texteditor.luhui.net 的访问和使用。
 
