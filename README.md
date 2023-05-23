@@ -18,6 +18,10 @@ http://zifu.luhui.net
 Deploy status badge
 This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
 
+
+https://yanwenzi.netlify.app/
+
+
 Deploy status badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/79e84624-5271-4eb3-b8f2-d3e095d7f1a6/deploy-status)](https://app.netlify.com/sites/yanwenzi/deploys)
 
